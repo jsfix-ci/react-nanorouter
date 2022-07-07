@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/IzumiSy/react-nanorouter#readme",
   "dependencies": {
-    "history": "^4.10.1",
+    "history": "^5.3.0",
     "nanorouter": "^4.0.0",
     "react": "^16.13.1"
   },
